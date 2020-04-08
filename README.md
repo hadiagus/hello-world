@@ -1,2 +1,6 @@
 # hello-world
-Learn how to use git
+
+
+Hi Humans!
+
+I'm just trying to use github!
